@@ -4,15 +4,29 @@
 ---
 
 ## 📌 **Kenapa Tidak Menggunakan Google Form?**  
-Terkadang, kita butuh sesuatu yang lebih fleksibel dan dapat disesuaikan sepenuhnya. Shiny memberi Anda kendali penuh untuk membangun survei yang interaktif, menarik, dan sesuai dengan kebutuhan spesifik Anda.  
+Terkadang, kita butuh sesuatu yang lebih fleksibel dan dapat disesuaikan sepenuhnya. Shiny memberi kendali penuh untuk membangun survei yang interaktif, menarik, dan sesuai dengan kebutuhan spesifik Anda.  
 
-> Kadang manusia suka "rada-rada", dan itulah mengapa kita mencoba Shiny! 😂  
+> Kadang manusia suka "rada-rada",padahal di googleform udah lengkap dan itulah mengapa kita mencoba Shiny! 😂  
 
 ---
 
 ## 📁 **Struktur Proyek**  
 
-📂 customer-survey/ │ ├── app.py # Logika utama aplikasi Shiny ├── shared.py # Komponen UI (INPUTS) ├── styles.css # Desain tampilan ├── requirements.txt # Daftar dependensi yang diperlukan ├── responses.csv # Data hasil survei └── README.md # Dokumentasi proyek
+📂 customer-survey/ 
+
+│ 
+
+├── app.py # Logika utama aplikasi Shiny 
+
+├── shared.py # Komponen UI (INPUTS) 
+
+├── styles.css # Desain tampilan 
+
+├── requirements.txt # Daftar dependensi yang diperlukan 
+
+├── responses.csv # Data hasil survei 
+
+└── README.md # Dokumentasi proyek
 
 
 ### 📄 **Penjelasan File:**
